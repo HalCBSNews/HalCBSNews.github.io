@@ -47,9 +47,13 @@ body {
 .app {
     position:absolute;             /* position in the center of the screen */
     top:30%;                  /* text area height */
-    width:15%;                   /* text area width */
+    width:40%;                   /* text area width */
     text-align:center; 
-    margin-left: 35%;
+    margin-left: 30%;
+}
+
+p {
+    font-size: 3em;
 }
 
 /* Landscape layout (with min-width) */
@@ -59,6 +63,10 @@ h1 {
     font-size:4em;
     font-weight:normal;
     text-align:center;
+}
+
+option {
+    font-size: 3em;
 }
 
 .event {
