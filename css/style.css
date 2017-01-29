@@ -45,11 +45,10 @@ body {
 }
 
 .app {
-    position:absolute;             /* position in the center of the screen */
-    top:30%;                  /* text area height */
-    width:40%;                   /* text area width */
+    /*position:absolute; */            /* position in the center of the screen */
     text-align:center; 
-    margin-left: 30%;
+    width: 50%;
+    margin: 15% 18%;
 }
 
 p {
@@ -67,6 +66,18 @@ h1 {
 
 option {
     font-size: 3em;
+}
+
+#scripts {
+    font-size: .6em;
+}
+
+#display {
+    font-size: .6em;
+}
+
+#showVal {
+    font-size: .6em;
 }
 
 .event {
