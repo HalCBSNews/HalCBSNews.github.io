@@ -49,13 +49,14 @@ body {
     top:30%;                  /* text area height */
     width:15%;                   /* text area width */
     text-align:center; 
-    margin-left: 40%;
+    margin-left: 35%;
 }
 
 /* Landscape layout (with min-width) */
 
 h1 {
-    font-size:5em;
+    margin-top:3%;
+    font-size:4em;
     font-weight:normal;
     text-align:center;
 }
